@@ -46,4 +46,4 @@ def main():
     print("It's a moment frozen in time, etched into your heart—a perfect day in the metaverse!")
 
 if __name__ == "__main__":
-    main()
+    main().
